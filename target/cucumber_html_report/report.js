@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8896172600,
+  "duration": 6940274900,
   "status": "passed"
 });
 formatter.scenario({
@@ -52,14 +52,14 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 6688961500,
+  "duration": 3815032601,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_navigate_to_Account_Login_Page()"
 });
 formatter.result({
-  "duration": 1501683900,
+  "duration": 1446933700,
   "status": "passed"
 });
 formatter.match({
@@ -76,22 +76,22 @@ formatter.match({
   "location": "Login.i_login_to_the_application_using_Username_and_Password(String,String)"
 });
 formatter.result({
-  "duration": 2678712900,
+  "duration": 2922066000,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_that_the_User_is_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 49371300,
+  "duration": 32751401,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1048364200,
+  "duration": 760569400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6236585100,
+  "duration": 6065738699,
   "status": "passed"
 });
 formatter.scenario({
@@ -136,14 +136,14 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 5066470600,
+  "duration": 3216341500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_navigate_to_Account_Login_Page()"
 });
 formatter.result({
-  "duration": 1456758400,
+  "duration": 1335534600,
   "status": "passed"
 });
 formatter.match({
@@ -160,22 +160,22 @@ formatter.match({
   "location": "Login.i_login_to_the_application_using_Username_and_Password(String,String)"
 });
 formatter.result({
-  "duration": 1782272500,
+  "duration": 1580128500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_an_error_message_that_the_credentials_are_invalid()"
 });
 formatter.result({
-  "duration": 51134400,
+  "duration": 31512401,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1255145900,
+  "duration": 777815401,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5896825300,
+  "duration": 7024122901,
   "status": "passed"
 });
 formatter.scenario({
@@ -220,14 +220,14 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 3426272600,
+  "duration": 2865787000,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_navigate_to_Account_Login_Page()"
 });
 formatter.result({
-  "duration": 1673796300,
+  "duration": 1478720000,
   "status": "passed"
 });
 formatter.match({
@@ -244,22 +244,22 @@ formatter.match({
   "location": "Login.i_login_to_the_application_using_Username_and_Password(String,String)"
 });
 formatter.result({
-  "duration": 2255272100,
+  "duration": 1553928500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_an_error_message_that_the_credentials_are_invalid()"
 });
 formatter.result({
-  "duration": 90176600,
+  "duration": 25115900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1425054500,
+  "duration": 738322399,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6319301800,
+  "duration": 6150976400,
   "status": "passed"
 });
 formatter.scenario({
@@ -304,14 +304,14 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 2964327700,
+  "duration": 2259571799,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_navigate_to_Account_Login_Page()"
 });
 formatter.result({
-  "duration": 1544311000,
+  "duration": 1628456100,
   "status": "passed"
 });
 formatter.match({
@@ -324,18 +324,18 @@ formatter.match({
   "location": "Login.i_reset_the_forgotten_password_for_email(String)"
 });
 formatter.result({
-  "duration": 4153110600,
+  "duration": 4083112800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_a_message_informing_the_User_that_information_related_to_resetting_password_have_been_sent_to_email_address()"
 });
 formatter.result({
-  "duration": 47858900,
+  "duration": 28034001,
   "status": "passed"
 });
 formatter.after({
-  "duration": 834899400,
+  "duration": 1566710800,
   "status": "passed"
 });
 formatter.uri("FeatureFiles/Register.feature");
@@ -347,7 +347,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6277969500,
+  "duration": 6606999700,
   "status": "passed"
 });
 formatter.scenario({
@@ -439,50 +439,50 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 3353316700,
+  "duration": 3004787399,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_navigate_to_Account_Registeration_page()"
 });
 formatter.result({
-  "duration": 3114997100,
+  "duration": 3348762500,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_provide_all_the_below_valid_details(DataTable)"
 });
 formatter.result({
-  "duration": 962680900,
+  "duration": 422906900,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_select_the_Privacy_Policy()"
 });
 formatter.result({
-  "duration": 243965400,
+  "duration": 78202801,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_click_on_Continue_Button()"
 });
 formatter.result({
-  "duration": 2487098200,
+  "duration": 2495122300,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_should_see_that_the_User_account_has_successfully_created()"
 });
 formatter.result({
-  "duration": 83636400,
+  "duration": 43305100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1448605300,
+  "duration": 771450200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6107769300,
+  "duration": 6067828000,
   "status": "passed"
 });
 formatter.scenario({
@@ -532,43 +532,43 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 2766435300,
+  "duration": 3234018499,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_navigate_to_Account_Registeration_page()"
 });
 formatter.result({
-  "duration": 1703970900,
+  "duration": 1530614400,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_click_on_Continue_Button()"
 });
 formatter.result({
-  "duration": 1467311600,
+  "duration": 1573202100,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_should_see_that_the_User_Account_is_not_created()"
 });
 formatter.result({
-  "duration": 68081600,
+  "duration": 46465800,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_should_see_the_error_messages_informing_the_user_to_fill_the_mandatory_fields()"
 });
 formatter.result({
-  "duration": 224170700,
+  "duration": 171615800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1818882500,
+  "duration": 947219800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6103994700,
+  "duration": 6564829300,
   "status": "passed"
 });
 formatter.scenario({
@@ -665,57 +665,57 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 2448125500,
+  "duration": 3306950600,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_navigate_to_Account_Registeration_page()"
 });
 formatter.result({
-  "duration": 1815871800,
+  "duration": 2765813199,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_provide_all_the_below_valid_details(DataTable)"
 });
 formatter.result({
-  "duration": 1107365000,
+  "duration": 421912700,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_select_the_Privacy_Policy()"
 });
 formatter.result({
-  "duration": 225785800,
+  "duration": 82101800,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_subscribe_to_Newsletter()"
 });
 formatter.result({
-  "duration": 235515000,
+  "duration": 73666301,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_click_on_Continue_Button()"
 });
 formatter.result({
-  "duration": 3010258700,
+  "duration": 2210419901,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_should_see_that_the_User_account_has_successfully_created()"
 });
 formatter.result({
-  "duration": 108374900,
+  "duration": 37776700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1580424500,
+  "duration": 1242881899,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5960952900,
+  "duration": 8338542001,
   "status": "passed"
 });
 formatter.scenario({
@@ -807,46 +807,196 @@ formatter.match({
   "location": "Register.I_launch_the_application()"
 });
 formatter.result({
-  "duration": 3143081100,
+  "duration": 3657345100,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_navigate_to_Account_Registeration_page()"
 });
 formatter.result({
-  "duration": 2025991300,
+  "duration": 1789002999,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_provide_the_below_duplicate_details(DataTable)"
 });
 formatter.result({
-  "duration": 1201364600,
+  "duration": 418890299,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_select_the_Privacy_Policy()"
 });
 formatter.result({
-  "duration": 215419200,
+  "duration": 75689600,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.I_click_on_Continue_Button()"
 });
 formatter.result({
-  "duration": 1472144600,
+  "duration": 1325583500,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_should_see_the_warning_message_stating_that_the_user_is_already_created()"
 });
 formatter.result({
-  "duration": 37296300,
+  "duration": 33458200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1110554200,
+  "duration": 743572501,
+  "status": "passed"
+});
+formatter.uri("FeatureFiles/Search.feature");
+formatter.feature({
+  "line": 1,
+  "name": "Search funstionality Scenarios",
+  "description": "",
+  "id": "search-funstionality-scenarios",
+  "keyword": "Feature"
+});
+formatter.before({
+  "duration": 6830368800,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 4,
+  "name": "Verify whether the User is able to search for the products",
+  "description": "",
+  "id": "search-funstionality-scenarios;verify-whether-the-user-is-able-to-search-for-the-products",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 3,
+      "name": "@Search"
+    },
+    {
+      "line": 3,
+      "name": "@One"
+    }
+  ]
+});
+formatter.step({
+  "line": 5,
+  "name": "I launch the application",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 6,
+  "name": "I search for a product \"Samsung SyncMaster 941BW\"",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 7,
+  "name": "I should see the product in the search results",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Register.I_launch_the_application()"
+});
+formatter.result({
+  "duration": 3353539800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Samsung SyncMaster 941BW",
+      "offset": 24
+    }
+  ],
+  "location": "Search.i_search_for_a_product(String)"
+});
+formatter.result({
+  "duration": 1677008000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Search.i_should_see_the_product_in_the_search_results()"
+});
+formatter.result({
+  "duration": 47856599,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1872952000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 6712808501,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 10,
+  "name": "Verify whether the User is informed when the product being searched is not available",
+  "description": "",
+  "id": "search-funstionality-scenarios;verify-whether-the-user-is-informed-when-the-product-being-searched-is-not-available",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@Search"
+    },
+    {
+      "line": 9,
+      "name": "@Two"
+    }
+  ]
+});
+formatter.step({
+  "line": 11,
+  "name": "I launch the application",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "I search for a product \"Apple iPhone\"",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "I should see a message informing \"There is no product that matches the search criteria.\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Register.I_launch_the_application()"
+});
+formatter.result({
+  "duration": 2639402400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Apple iPhone",
+      "offset": 24
+    }
+  ],
+  "location": "Search.i_search_for_a_product(String)"
+});
+formatter.result({
+  "duration": 1310290800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "There is no product that matches the search criteria.",
+      "offset": 34
+    }
+  ],
+  "location": "Search.i_should_see_a_message_informing(String)"
+});
+formatter.result({
+  "duration": 25548701,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 769547200,
   "status": "passed"
 });
 });

@@ -23,4 +23,10 @@ public class HeadersSection {
 	@FindBy(linkText="Login")
 	public static WebElement login;
 	
+	@FindBy(name="search")
+	public static WebElement searchBoxField;
+	
+	@FindBy(css=".fa.fa-search")
+	public static WebElement searchButton ;
+	
 }
