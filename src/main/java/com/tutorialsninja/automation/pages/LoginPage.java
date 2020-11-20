@@ -24,7 +24,7 @@ public class LoginPage {
 	@FindBy(css="form[method='post'] > input[value='Login']")
 	public static WebElement loginButton;
 	
-	@FindBy(css="div#account-login > .alert.alert-danger.alert-dismissible")
+	@FindBy(xpath="//div[@id='account-login']/div[@class='alert alert-danger alert-dismissible']")
 	public static WebElement mainWarning;
 	
 	@FindBy(linkText="Forgotten Password")
@@ -40,5 +40,12 @@ public class LoginPage {
 		Elements.TypeText(LoginPage.passwordField,password);
 		Elements.click(LoginPage.loginButton);
 		
+	}
+	
+	public static void doLogin() {
+		
+		Elements.TypeText(emailField,Base.reader.getUsername());
+		Elements.TypeText(passwordField,Base.reader.getPassword());
+		Elements.click(loginButton);
 	}
 }

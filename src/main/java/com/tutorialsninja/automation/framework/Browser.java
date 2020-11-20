@@ -19,7 +19,7 @@ public class Browser {
 
 	public static WebDriver startBrowser() {
 		String browser = Base.reader.getBrowser().toLowerCase();
-		log.info("Selected Browser is: "+browser);
+		log.info("Selected Browser is: "+browser);  
 		switch (browser) {
 
 		case "chrome":
@@ -58,6 +58,11 @@ public class Browser {
 		Base.driver.manage().window().maximize();
 	}
 
+	public static void openApplicationURL(){
+		
+		Base.driver.get(Base.reader.getUrl());
+	}
+	
 	public static byte[] takeScreenshot() {
 		try {
 			return ((TakesScreenshot)Base.driver).getScreenshotAs(OutputType.BYTES);
