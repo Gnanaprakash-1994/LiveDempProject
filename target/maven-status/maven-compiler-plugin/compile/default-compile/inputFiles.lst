@@ -2,7 +2,6 @@ D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automati
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\config\ConfigurationReader.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\ShoppingCartPage.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\util\PathHelper.java
-D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\OrderSuccessPage.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\MyAccountPage.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\SearchResultsPage.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\framework\Elements.java
@@ -16,3 +15,4 @@ D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automati
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\AccountSuccessPage.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\framework\Waits.java
 D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\HeadersSection.java
+D:\Prakash GitHubRepos\LiveDempProject\src\main\java\com\tutorialsninja\automation\pages\OrdersSuccessPage.java

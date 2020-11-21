@@ -24,7 +24,7 @@ public class LoginPage {
 	@FindBy(css="form[method='post'] > input[value='Login']")
 	public static WebElement loginButton;
 	
-	@FindBy(xpath="//div[@id='account-login']/div[@class='alert alert-danger alert-dismissible']")
+	@FindBy(css="div#account-login > .alert.alert-danger.alert-dismissible")
 	public static WebElement mainWarning;
 	
 	@FindBy(linkText="Forgotten Password")
