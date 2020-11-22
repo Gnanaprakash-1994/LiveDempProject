@@ -3,6 +3,7 @@ package com.tutorialsninja.automation.stepdef;
 import org.junit.Assert;
 
 import com.tutorialsninja.automation.framework.Elements;
+import com.tutorialsninja.automation.framework.Waits;
 import com.tutorialsninja.automation.pages.ForgotPasswordPage;
 import com.tutorialsninja.automation.pages.HeadersSection;
 import com.tutorialsninja.automation.pages.LoginPage;
@@ -43,7 +44,9 @@ public void i_should_see_that_the_User_is_able_to_login_successfully() {
 
 @Then("^I should see an error message that the credentials are invalid$")
 public void i_should_see_an_error_message_that_the_credentials_are_invalid() {
-   
+	
+   Waits.waitUntilElementLocated(10,LoginPage.mainWarning);
+	
 	Assert.assertTrue(Elements.VerifyTextEquals(LoginPage.mainWarning,"Warning: No match for E-Mail Address and/or Password."));
 	
 }

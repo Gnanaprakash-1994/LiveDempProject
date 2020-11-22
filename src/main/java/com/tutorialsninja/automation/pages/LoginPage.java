@@ -6,10 +6,12 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.tutorialsninja.automation.base.Base;
 import com.tutorialsninja.automation.framework.Elements;
+import com.tutorialsninja.automation.framework.Waits;
 
 public class LoginPage {
 
 	public LoginPage() {
+		
 		
 		PageFactory.initElements(Base.driver, this);
 		
